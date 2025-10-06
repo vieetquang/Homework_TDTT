@@ -1,0 +1,1 @@
+print ("Hello, " + ", ".join(input("Enter your name:").split()[::-1]) + "!")

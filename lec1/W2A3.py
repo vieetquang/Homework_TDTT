@@ -1,0 +1,6 @@
+SoA = int(input("So a?"))
+SoB = int(input("So b?"))
+print ("A + B =", SoA + SoB)
+print ("A - B =", SoA - SoB)
+print ("A * B =", SoA * SoB)
+print ("A / B =", SoA // SoB)
