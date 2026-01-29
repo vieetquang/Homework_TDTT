@@ -1,0 +1,11 @@
+f(0) = a
+f(1) = b
+f(2) = ab
+f(3) = bab
+f(4) = abbab
+f(5) = bababbab
+f(6) = abbabbababbab
+f(7) = bababbababbabbababbab
+f(8) = abbabbababbabbababbababbabbababbab
+f(9) = bababbababbabbababbababbabbababbabbababbababbabbababbab
+f(10) = abbabbababbabbababbababbabbababbabbababbababbabbababbababbabbababbabbababbababbabbababbab
